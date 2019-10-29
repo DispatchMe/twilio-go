@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/kevinburke/rest"
-	twilio "github.com/saintpete/twilio-go"
+	twilio "github.com/DispatchMe/twilio-go"
 	"golang.org/x/net/context"
 )
 
